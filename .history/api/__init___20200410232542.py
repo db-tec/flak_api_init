@@ -5,7 +5,6 @@ from flask_migrate import Migrate
 from flask_marshmallow import Marshmallow
 from flask_jwt_extended import JWTManager
 from flasgger import Swagger
-from flask_mail import Mail, Message
 
 app = Flask(__name__)
 app.config.from_object('config')
