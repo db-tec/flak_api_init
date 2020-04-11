@@ -2,7 +2,7 @@
 # Migrations Banco de dados
 pip install flask-migrate
 flask init -- inicializar a migrate
-set FLASK_APP=api.py -- set verificação das migrates pode ser antes do flask init obs(set >> windows / export linux)
+set FLASK_APP=api.py -- set verificação das migrates pode ser antes do flask init
 flask db migrate -- para migração banco de dados
 flask db upgrade -- para atualização dos models banco de dados
 flask ru -- para rodar a aplicação
