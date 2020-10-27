@@ -3,7 +3,7 @@ aniso8601==8.0.0
 attrs==19.3.0
 cffi==1.14.0
 click==7.1.1
-cryptography==2.9
+cryptography==3.2
 flasgger==0.9.4
 Flask==1.1.2
 Flask-JWT-Extended==3.24.1
@@ -37,7 +37,7 @@ aniso8601==8.0.0
 attrs==19.3.0
 cffi==1.14.0
 click==7.1.1
-cryptography==2.9
+cryptography==3.2
 flasgger==0.9.4
 Flask==1.1.2
 Flask-JWT-Extended==3.24.1
@@ -72,7 +72,7 @@ aniso8601==8.0.0
 attrs==19.3.0
 cffi==1.14.0
 click==7.1.1
-cryptography==2.9
+cryptography==3.2
 flasgger==0.9.4
 Flask==1.1.2
 Flask-JWT-Extended==3.24.1
