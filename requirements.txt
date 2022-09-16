@@ -16,7 +16,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 jsonschema==3.2.0
 jwt==1.0.0
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 marshmallow==3.5.1
 mistune==0.8.4
@@ -50,7 +50,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 jsonschema==3.2.0
 jwt==1.0.0
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 marshmallow==3.5.1
 marshmallow-sqlalchemy==0.22.3
@@ -85,7 +85,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.1
 jsonschema==3.2.0
 jwt==1.0.0
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 marshmallow==3.5.1
 marshmallow-sqlalchemy==0.22.3
